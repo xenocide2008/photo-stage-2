@@ -1,0 +1,6 @@
+.header{background-color: #5f5f26; opacity:0}
+.greek{background-color: cadetblue;}
+.game{background-color: maroon; display:flex; padding:20px;justify-content: space-evenly; opacity: 0;}
+.header:hover{background-color: salmon; opacity: 1;}
+.game:hover{background-color: seagreen; opacity: 1;}
+a:visited{color: yellow;}
